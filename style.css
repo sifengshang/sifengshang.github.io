@@ -1,7 +1,7 @@
 body {
     padding: 0;
     margin: 0;
-    background-color: #1B3064;
+    background-color: #121212;
     color: #000;
     font-size: 18px; /* default 16px */
 }
@@ -15,7 +15,7 @@ body {
     padding-bottom: 10px;
     padding-left: 30px;
     padding-right: 30px;
-    background-color: #EEE6C6;
+    background-color: #F2F0E6;
     color: #000;
 }
 
